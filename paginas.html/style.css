@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:ital@1&family=Roboto:ital@1&display=swap');
+
+
+.img-fluid{
+    width: 400px;
+    height: 250px;
+}
+
+.body1{
+    background-color: #e3972c;
+}
+
+.just{
+   justify-content: center;
+}
+
+.container1{
+    width: 450px;
+    height: auto;
+}
+
+.topLogo{
+    width: 150px;
+    height: auto;
+}
+
+.colorP{
+    color: white;
+}
+
+.imagemR{
+
+    width: 750px;
+    height: auto;
+}
